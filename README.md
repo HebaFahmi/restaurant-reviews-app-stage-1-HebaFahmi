@@ -31,7 +31,7 @@ Address, cuisine, oppening hours, other user reviews and ratings.
  ## Demo
  ## Home Page
 
-[![demo](./restaurant-reviews-app-stage-1-HebaFahmi/img/index.JPG)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/index.JPG)
+[![demo](./img/index.JPG)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/index.JPG)
 
  ## Restaurant Page
 

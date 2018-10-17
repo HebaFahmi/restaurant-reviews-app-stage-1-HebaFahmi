@@ -30,9 +30,8 @@ Address, cuisine, oppening hours, other user reviews and ratings.
  
  ## Demo
 
-[![demo](./img.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg)
+[![demo](./img/1.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/1.jpg)
 
-> [Check it live](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg).
     
 ## Note:
 files in order to be able to run project in local server.

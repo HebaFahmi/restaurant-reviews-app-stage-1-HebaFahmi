@@ -44,13 +44,10 @@ in index.html, restaurant.html and dbhelper.js to run localy.
 
 ## Dependencies
 
-The starter code for this project is based on the Udacity repository
-(https://github.com/udacity/mws-restaurant-stage-1)
+The starter code for this project enter the link below
+(https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git)
 
 ### Leaflet.js and Mapbox:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information. 
 
-## License
-
-This code is distributed under the MIT license.

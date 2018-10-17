@@ -29,8 +29,13 @@ Address, cuisine, oppening hours, other user reviews and ratings.
     4. When you want to back in the home page, click "Home" above of the restaurant image.
  
  ## Demo
+ ## Home Page
 
-[![demo](./img/1.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/1.jpg)
+[![demo](./img/index.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/index.jpg)
+
+ ## Restaurant Page
+
+[![demo](./img/rest.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/rest.jpg)
 
     
 ## Note:

@@ -31,11 +31,11 @@ Address, cuisine, oppening hours, other user reviews and ratings.
  ## Demo
  ## Home Page
 
-[![demo](./img/index.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/index.jpg)
+[![demo](./img/index.JPG)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/index.JPG)
 
  ## Restaurant Page
 
-[![demo](./img/rest.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/rest.jpg)
+[![demo](./img/rest.JPG)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi/img/rest.JPG)
 
     
 ## Note:

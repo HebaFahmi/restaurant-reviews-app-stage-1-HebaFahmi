@@ -27,6 +27,12 @@ Address, cuisine, oppening hours, other user reviews and ratings.
     2. When you to enter on the restaurant details click "VIEWDETAILS" button under the image of the restaurant.
 	3. The "restaurant.html" page will open.
     4. When you want to back in the home page, click "Home" above of the restaurant image.
+ 
+ ## Demo
+
+[![demo](./demo.gif)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg)
+
+> [Check it live](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg).
     
 ## Note:
 files in order to be able to run project in local server.

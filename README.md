@@ -30,7 +30,7 @@ Address, cuisine, oppening hours, other user reviews and ratings.
  
  ## Demo
 
-[![demo](./demo.gif)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg)
+[![demo](./img.jpg)](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg)
 
 > [Check it live](https://github.com/HebaFahmi/restaurant-reviews-app-stage-1-HebaFahmi.git/img/1.jpg).
     
